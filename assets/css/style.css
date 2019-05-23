@@ -53,12 +53,12 @@ a {
     border-left: 1px solid rgba(5,5 ,5 , 0.2);
 }
 div {
-    display: flex;
+    /* display: flex;  */
     width: 700px;
     height: 120px;
     padding: 50px;
     border: 1px solid gray;
-    margin: 0px;
+    margin: 20px auto;
     text-align: left;
     bottom: 0;
   }
