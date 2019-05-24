@@ -11,7 +11,6 @@ body {
 
 main {
     width: 960px;
-    height: 960px;
     border: 1px solid black;
 }
 header {
@@ -55,10 +54,13 @@ a {
 div {
     /* display: flex;  */
     width: 700px;
-    height: 120px;
     padding: 50px;
     border: 1px solid gray;
     margin: 20px auto;
     text-align: left;
     bottom: 0;
+  }
+  img{
+      max-width: 90%;
+
   }
